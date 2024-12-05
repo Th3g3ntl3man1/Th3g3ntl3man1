@@ -44,8 +44,7 @@ My journey through information security and digital forensics has sparked my pas
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white"/>
-
+<a href= "https://www.credly.com/badges/866abce5-8029-480a-8b69-763d64611d6e/public_url"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white"/></a>
 
 </div>
 
